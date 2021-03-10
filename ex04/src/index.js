@@ -3,8 +3,9 @@ function main() {
 
     var x = 10;
     var y = x;
-    return [x,y];
-    // Only change code above this lineHeight: 
+    
+    // Only change code above this line 
+	return [x,y];
 }
 
 console.log(main());
